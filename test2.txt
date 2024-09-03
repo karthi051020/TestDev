@@ -1,1 +1,1 @@
-"Build, Test, Deploy, Release"
+"Build, Test, Deploy, Release test"
